@@ -1,4 +1,10 @@
 ## Hello ;)
+
+<h3>My pet projects</h3>
+<ul>
+    <li> <a href="https://github.com/faketri/OnlineMarket">GLANCES - Online Store</a> </li>
+</ul>
+
 <p aling="center">About me</p>
 <p align="center"">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="java" width="40" height="40"/>
