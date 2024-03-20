@@ -3,6 +3,7 @@
 <h3>My pet projects</h3>
 <ul>
     <li> <a href="https://github.com/faketri/OnlineMarket">GLANCES - Online Store</a> </li>
+    <li><a href="https://github.com/faketri/Matrix">MatrixCalc - matrix calculator</a></li>
 </ul>
 
 <p aling="center">About me</p>
